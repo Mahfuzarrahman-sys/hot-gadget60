@@ -24,6 +24,10 @@
     width: 15px;
     transition: .4s;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    }
 .carousal-tdots ol li.active {
     background-color: #FFCE1A;
     width: 20px;
@@ -60,6 +64,18 @@
       text-transform: uppercase;
       font-weight: 500;
     }
+    h1, h2, h3{
+        color: #1f1f1f;
+        font-family: 'Poppins', sans-serif;
+    }
+    h1{
+        font-size: 40px;
+        font-weight: 500;
+    }
+    h2{
+        font-size: 35px;
+        font-weight: 500;
+    }
  
     h2{
         font-size: 35px;
@@ -69,9 +85,9 @@
         margin-bottom: 40px;
     }
     .mini-cat-box h3 {
-         margin-top: 15px;
-            width: 120px;
-            background: #EF4220;
-            transform: scale(1.1);
-        }
-        
+        margin-top: 15px;
+           width: 120px;
+           background: #EF4220;
+          
+       }
+       
