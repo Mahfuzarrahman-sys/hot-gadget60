@@ -1,0 +1,77 @@
+.grey-bg{
+    background-color: #a0c5e8;
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.buy-now{
+    background-image: linear-gradient(142deg, #ff9c35 0%, #ffd019 100%);
+    color: orangered;
+    border: none;
+    border-radius: 10px;
+    padding 10px 25px;
+    cursor: pointer;
+
+}
+.carousal-tdots ol li {
+    height: 8px;
+    width: 50px;
+    background: #ddd;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 15px;
+    transition: .4s;
+}
+.carousal-tdots ol li.active {
+    background-color: #FFCE1A;
+    width: 20px;
+}
+
+.saction-header{
+    margin: 10px;
+    padding-top: 80px;
+}
+.see-all{
+    font: 16px;
+    color: orange;
+}
+.card {
+    border: none;
+    padding: 30px 15px;
+    box-shadow: 0 0 20px #ededed;
+    margin-top: 25px;
+    transition: .4s;
+}
+.card:hover {
+    margin-top: 5px;
+}
+.buy-btn{
+    background-color: #000;
+      color: #fff;
+      border-radius: 8px;
+      padding: 10px 25px;
+      display: inline-block;
+      margin-top: 10px;
+      text-decoration: none;
+      font-size: 15px;
+      transition: .4s;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+ 
+    h2{
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .saction-title {
+        margin-bottom: 40px;
+    }
+    .mini-cat-box h3 {
+         margin-top: 15px;
+            width: 120px;
+            background: #EF4220;
+            transform: scale(1.1);
+        }
+        
